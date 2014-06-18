@@ -1,0 +1,8 @@
+/target
+
+/logs
+
+/node_modules
+
+/.settings
+/logs_notify
