@@ -6,3 +6,7 @@
 
 /.settings
 /logs_notify
+
+/cache
+/.classpath
+/.project
